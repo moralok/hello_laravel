@@ -2,5 +2,5 @@
 @section('title', '关于')
 
 @section('content')
-  <h1>关于页</h1>
+  <a href="mailto:moralok@163.com"><h1>Moralok</h1></a>
 @stop
